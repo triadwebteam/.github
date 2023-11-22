@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a public repository dedicated to housing a collaborative library of web animations for Triad Partners. Created and maintained by our talented web development team, this repository aims to provide a reusable set of high-quality animations for various projects.
+This is a repository dedicated to housing a collaborative library of web animations for Triad Partners. Created and maintained by our talented web development team, this repository aims to provide a reusable set of high-quality animations for various projects.
 
 ## Technologies
 
