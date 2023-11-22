@@ -63,35 +63,29 @@ triad-animation-library/
       
 -   If Working on an Existing Project:
     -   Clone the existing repository to your local machine using:
-
         ```
         git clone git@github.com:organization/repo-name.git
         ```
-
     -   Replace `git@github.com:organization/repo-name.git` with the SSH URL of the repository.
 
 ### 2. Set Up Local Repository
 
 -   Navigate to your project directory in the command line:
-
     ```
         cd path/to/your/project
     ```
 
 -   If you started a new project and haven't cloned, initialize a Git repository:
-  
     ```
         git init
     ```
 
 -   Add the remote repository (only if you started a new project):
-
     ```
         git remote add origin git@github.com:organization/repo-name.git
     ```
 
 -   Verify the remote setup:
-
     ```
     git remote -v
     ```
@@ -99,7 +93,6 @@ triad-animation-library/
 ### 3. Create and Checkout a New Branch
 
 -   It's good practice to create a new branch for your changes:
-
     ```
         git checkout -b your-branch-name
     ```
